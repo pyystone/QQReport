@@ -34,12 +34,12 @@ namespace fatieTools
         private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
             namelist.Items.Clear();
-            StreamReader sr ;
-            sr = FileLS.fileReader("pass.txt", "utf-8");
-            namestr += sr.ReadToEnd();
-            sr.Close();
-            sr = FileLS.fileReader("faile.txt", "utf-8");
-            namestr += sr.ReadToEnd();
+//            StreamReader sr ;
+//            sr = FileLS.fileReader("pass.txt", "utf-8");
+//            namestr += sr.ReadToEnd();
+//            sr.Close();
+//            sr = FileLS.fileReader("faile.txt", "utf-8");
+//            namestr += sr.ReadToEnd();
             sr.Close();
             sr= FileLS.fileReader(openFileDialog1.FileName);
             string[] data = HtmlTools.getrexDataByRex(sr.ReadToEnd(), "(.*)\r\n", 1).data.ToArray();//stringHelper.StringSplit(sr.ReadToEnd(),"\r\n");
