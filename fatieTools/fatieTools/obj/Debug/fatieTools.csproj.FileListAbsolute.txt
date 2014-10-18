@@ -1,0 +1,14 @@
+J:\code\vs\tieba\fatieTools\fatieTools\bin\Debug\fatieTools.exe.config
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.csprojResolveAssemblyReference.cache
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.Form1.resources
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.Properties.Resources.resources
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.csproj.GenerateResource.Cache
+J:\code\vs\tieba\fatieTools\fatieTools\bin\Debug\fatieTools.exe
+J:\code\vs\tieba\fatieTools\fatieTools\bin\Debug\fatieTools.pdb
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.exe
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.pdb
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.login.resources
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.qiandao.resources
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.Replay.resources
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.helpform.resources
+J:\code\vs\tieba\fatieTools\fatieTools\obj\Debug\fatieTools.filterUser.resources
