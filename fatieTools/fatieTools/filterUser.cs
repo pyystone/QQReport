@@ -36,9 +36,9 @@ namespace fatieTools
             namelist.Items.Clear();
             StreamReader sr ;
             sr = FileLS.fileReader("pass.txt", "utf-8");
-            namestr += sr.ReadToEnd();
-            sr.Close();
-            sr = FileLS.fileReader("faile.txt", "utf-8");
+//            namestr += sr.ReadToEnd();
+//            sr.Close();
+//            sr = FileLS.fileReader("faile.txt", "utf-8");
             namestr += sr.ReadToEnd();
             sr.Close();
             sr= FileLS.fileReader(openFileDialog1.FileName);
